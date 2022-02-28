@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+
+h1{
+	font-size: 2rem;
+	color: pink;
+}
+
+.container{
+	max-width: 800px !important;
+	width: 100% !important;
+}
